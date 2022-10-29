@@ -1,6 +1,6 @@
 ## Animated Hot Cup of Tea
 
-This is an amazing interactive CSS draw of a warm cup of tea.
+This is an amazing animated CSS draw of a warm cup of tea.
 
 I practiced here linear-gradients, borders, complex shadows, advanced animations and neat design-color composition.
 
